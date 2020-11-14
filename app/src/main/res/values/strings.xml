@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">IMDBCompose</string>
+
+
+
+    <string name="hello">Hello, %s</string>
+    <string name="recommended">Recommended</string>
+    <string name="search_recipes">Search recipes</string>
+
+</resources>
